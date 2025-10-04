@@ -1,6 +1,5 @@
 # Aprendizaje_Python
 Ejercicios prácticos y proyectos básicos desarrollados durante mi formación en Ingeniería Informática y autoaprendizaje de Python.
-# Aprendizaje Python
 
 Este repositorio contiene los primeros ejercicios, proyectos y prácticas que he realizado mientras aprendo **Python** durante mi formación en **Ingeniería Informática** y cursos complementarios.
 
