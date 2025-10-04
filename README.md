@@ -1,12 +1,12 @@
 # Aprendizaje_Python
 Ejercicios prácticos y proyectos básicos desarrollados durante mi formación en Ingeniería Informática y autoaprendizaje de Python.
-# 🐍 Aprendizaje Python
+# Aprendizaje Python
 
 Este repositorio contiene los primeros ejercicios, proyectos y prácticas que he realizado mientras aprendo **Python** durante mi formación en **Ingeniería Informática** y cursos complementarios.
 
 ---
 
-## 📚 Objetivo
+## Objetivo
 Crear una base sólida en programación, dominando los fundamentos de Python y fortaleciendo mi lógica de desarrollo para avanzar hacia proyectos más complejos.
 
 ---
@@ -20,7 +20,7 @@ Crear una base sólida en programación, dominando los fundamentos de Python y f
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Lenguaje: **Python 3**
 - Entorno: **VS Code / Codex / Jupyter Notebook**
 - Control de versiones: **Git y GitHub**
@@ -28,7 +28,7 @@ Crear una base sólida en programación, dominando los fundamentos de Python y f
 ---
 ---
 
-## ✍️ Autor
+## Autor
 **[Kelvin Arath Romero Polo]**  
 Estudiante de Ingeniería Informática  
 En constante aprendizaje y mejora.
