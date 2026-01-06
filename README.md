@@ -10,7 +10,7 @@ Crear una base sólida en programación, dominando los fundamentos de Python y f
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 - **Conversión de Temperaturas** → Código que convierte grados Celsius a Fahrenheit.
 - **Calculadora de IMC** → Calcula el índice de masa corporal según peso y altura.
@@ -28,6 +28,6 @@ Crear una base sólida en programación, dominando los fundamentos de Python y f
 ---
 
 ## Autor
-**[Kelvin Arath Romero Polo]**  
+**Kelvin Arath Romero Polo**  
 Estudiante de Ingeniería Informática  
-En constante aprendizaje y mejora.
+En formación continua en Ciberseguridad y Tecnologías de la Información.
